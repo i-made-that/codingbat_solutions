@@ -1,0 +1,61 @@
+#buttons {
+	max-width: 800px;
+}
+
+#buttons button {
+	margin-right: 3px;
+	margin-bottom: 3px;
+}
+
+#container {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+#description {
+	display: block;
+}
+
+#error {
+	display: none;
+	color: red;
+}
+
+#functionCode {
+	display: none;
+	padding: 10px 15px 10px 15px;
+	width: intrinsic;
+	width: -moz-max-content;
+}
+
+#functionContainer {
+	display: none;
+}
+
+.red {
+	color: red;
+}
+
+#result {
+	margin-top: 20px;
+}
+
+#showCode {
+	display: none;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	cursor: default;
+}
+
+#textField {
+	width: 200px;
+	display: inline;
+}
+
+
+
+
+
+
+
+
