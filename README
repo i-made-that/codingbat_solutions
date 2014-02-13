@@ -1,3 +1,5 @@
-This is a Repo for all of my CoderByte solutions.  Some good, some not so good.  
+This project is a front-end visualization of the recusion problems I worked through at CodingBat.com.
 
-But if they're here, they work!
+Ultimately I'll work it out so that the entire recursive stack trace is printed to screen, but I'm still working on that.
+
+Recursion is pretty cool.  And also pretty.
